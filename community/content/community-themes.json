@@ -642,21 +642,27 @@
     "secondaryColor": "oklch(68.0% 0.105 160.0 / 1)"
   },
   {
-  id: 'sumi-coal',
-  backgroundColor: 'oklch(13.0% 0.015 260.0 / 1)',
-  mainColor: 'oklch(68.0% 0.035 220.0 / 1)',
-  secondaryColor: 'oklch(45.0% 0.025 260.0 / 1)'
+  "id": "sumi-coal",
+  "backgroundColor": "oklch(13.0% 0.015 260.0 / 1)",
+  "mainColor": "oklch(68.0% 0.035 220.0 / 1)",
+  "secondaryColor": "oklch(45.0% 0.025 260.0 / 1)"
   },
   {
-  id: 'riverstone-gray',
-  backgroundColor: 'oklch(20.0% 0.010 260.0 / 1)',
-  mainColor: 'oklch(78.0% 0.020 90.0 / 1)',
-  secondaryColor: 'oklch(55.0% 0.035 240.0 / 1)'
+  "id": "riverstone-gray",
+  "backgroundColor": "oklch(20.0% 0.010 260.0 / 1)",
+  "mainColor": "oklch(78.0% 0.020 90.0 / 1)",
+  "secondaryColor":"oklch(55.0% 0.035 240.0 / 1)"
  },
   {
-  id: 'neon-arcade',
-  backgroundColor: 'oklch(13.0% 0.055 300.0 / 1)',
-  mainColor: 'oklch(78.0% 0.220 330.0 / 1)',
-  secondaryColor: 'oklch(82.0% 0.185 190.0 / 1)'
-}
+  "id": "neon-arcade",
+  "backgroundColor": "oklch(13.0% 0.055 300.0 / 1)",
+  "mainColor": "oklch(78.0% 0.220 330.0 / 1)",
+  "secondaryColor": "oklch(82.0% 0.185 190.0 / 1)"
+  },
+  {
+  "id": "indigo-shibori",
+  "backgroundColor"-: "oklch(19.0% 0.055 255.0 / 1)",
+  "mainColor": "oklch(55.0% 0.165 250.0 / 1)",
+  "secondaryColor": "oklch(85.0% 0.065 90.0 / 1)"
+  }
 ]
